@@ -1,0 +1,2 @@
+# JavaCore
+Regular Programming Practice
